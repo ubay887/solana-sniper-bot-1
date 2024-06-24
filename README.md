@@ -40,9 +40,9 @@ First step:
 > # Installation 🔗
 >
 >
-> [1] ```git clone https://github.com/SoaRTradingBot/solana-sniper-bot-main```
+> [1] ```git clone https://github.com/SoaRTradingBot/solana-sniper-bot```
 > 
->[2] ```cd solana-sniper-bot```
+>[2] ```cd solana-sniper-bot-main```
 > 
 >[3] ```npm install```
 >
