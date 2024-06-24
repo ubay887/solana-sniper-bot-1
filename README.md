@@ -1,14 +1,10 @@
-![Banner](https://github.com/soarsniper/solana-sniper-bot/blob/aa4317123c3058de4e2c5101d8963b1162370b28/images/soarlogo.png)
+![Banner](https://github.com/SoaRTradingBot/solana-sniper-bot/blob/f77846d77701a23c130fbddbf6d24da43d587688/images/soarlogo.png)
 
 ## SOAR SOLANA SNIPER BOT
 
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 ![](https://img.shields.io/badge/soar-sniper_bot-blue)
 ![UPTime](https://camo.githubusercontent.com/4a67ad96d71cca235a4393b2f3b79aabb0a3d42d555030632f1110e9eedde567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e)
-[![GitHub forks](https://img.shields.io/github/forks/soarsniper/solana-sniper-bot.js.svg?style=social&label=Fork&maxAge=2000)](https://GitHub.com/soarsniper/solana-sniper-bot.js/network/)
-[![GitHub stars](https://img.shields.io/github/stars/soarsniper/solana-sniper-bot.js.svg?style=social&label=Star&maxAge=2000)](https://GitHub.com/soarsniper/solana-sniper-bot.js/stargazers/)
-[![GitHub watchers](https://img.shields.io/github/watchers/soarsniper/solana-sniper-bot.js.svg?style=social&label=Watch&maxAge=2000)](https://GitHub.com/soarsniper/solana-sniper-bot.js/watchers/)
-[![GitHub License](https://img.shields.io/badge/license-mit.svg)](https://raw.githubusercontent.com/link/main/LICENSE.md)
 
 
 **SoaR Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
@@ -44,7 +40,7 @@ First step:
 > # Installation 🔗
 >
 >
-> [1] ```git clone https://github.com/soarsniper/solana-sniper-bot```
+> [1] ```git clone https://github.com/SoaRTradingBot/solana-sniper-bot-main```
 > 
 >[2] ```cd solana-sniper-bot```
 > 
@@ -71,9 +67,9 @@ First step:
 13. `STOP_LOSS=30` (in %)
 14. `BIRDEYE_APIKEY=` get here: https://birdeye.so/user/profile#security
 
-![](https://github.com/soarsniper/solana-sniper-bot/blob/aa4317123c3058de4e2c5101d8963b1162370b28/images/bot.png)
+![](https://github.com/SoaRTradingBot/solana-sniper-bot/blob/f77846d77701a23c130fbddbf6d24da43d587688/images/bot.png)
 
-![](https://github.com/soarsniper/solana-sniper-bot/blob/aa4317123c3058de4e2c5101d8963b1162370b28/images/botsnipe.png)
+![](https://github.com/SoaRTradingBot/solana-sniper-bot/blob/f77846d77701a23c130fbddbf6d24da43d587688/images/botsnipe.png)
 
 
 ## Auto Sell 📈
@@ -109,7 +105,7 @@ You can update the list while script is running. Script will check for new value
 > `Error: No SOL token account found in wallet: `  
 > it means that your wallet not have USDC/WSOL token account.
 > FIX: Go to [Jup.ag](https://jup.ag) and swap some SOL/USDC or SOL/WSOL.
-> ![](https://github.com/soarsniper/solana-sniper-bot/blob/aa4317123c3058de4e2c5101d8963b1162370b28/images/jupiter.png)
+> ![](https://github.com/SoaRTradingBot/solana-sniper-bot/blob/f77846d77701a23c130fbddbf6d24da43d587688/images/jupiter.png)
 
 ## Help 📮
 Discord: @botsoar
